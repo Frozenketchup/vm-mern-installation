@@ -10,7 +10,7 @@
 
 <h3> Softwares installed</h3>
 <ul>
-<li> Node & NPM </li>
-<li> MongoDB</li>
+<li> Node & NPM Version 16.X </li> 
+<li> MongoDB Version 6.0 </li>
 <li> PM2 (Process Manager) </li>
 <li> NGINX (Web Server & Load Balancer) </li>
